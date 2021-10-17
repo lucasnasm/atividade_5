@@ -1,0 +1,20 @@
+[
+    {
+        "register_id": 20218231,
+        "name": "João",
+        "age": 19,
+        "Course": "Sistemas de informação"
+    },
+    {
+        "register_id": 20218232,
+        "name": "Maria",
+        "age": 18,
+        "Course": "Sistemas de informação"
+    },
+    {
+        "register_id": 20218234,
+        "name": "Lucas",
+        "age": 26,
+        "Course": "Sistemas de informação"
+    }
+]
